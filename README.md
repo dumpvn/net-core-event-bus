@@ -1,3 +1,7 @@
+
+sff asp net core
+https://learning.oreilly.com/videos/net-core-microservices/9781803247793/9781803247793-video19_5/
+
 ## ASP.NET Core Event Bus with RabbitMQ 
 
 Sample event bus implementation that uses [RabbitMQ](https://www.rabbitmq.com/) as a message broker for high-performance communication between microservices.
